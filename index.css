@@ -43,7 +43,7 @@
       color: whi;
       border-radius: 0.5rem;
       border: 1px solid var(--primary-color);
-      background-color: #BE185D;
+      background-color:wheat;
   }
   /**Lists**/
   .list-non-bullet{
@@ -216,4 +216,20 @@
       color: #B45309;
       font-size: 2rem;
   }
-  
+  .edu{
+    background-color:palegoldenrod
+    
+  }
+  .edu-para{
+    font-size:0.9rem;
+    margin-left: 5.2rem;
+    margin-top: -2ch;
+     
+  }
+  .edu-heading{
+
+    border-style: solid ;
+    border-color:#059669;
+    
+    border-width: 0.4ch;
+  }
